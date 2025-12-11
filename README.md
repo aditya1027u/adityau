@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web developer , python programming, my sql <br>🌱 I’m currently learning react , My Sql <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on web developer , python programming, my sql <br>🌱 I’m currently learning react , My Sql <br>
 
 
 ## 🌐 Socials:
